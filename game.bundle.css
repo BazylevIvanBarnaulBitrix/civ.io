@@ -4,4 +4,8 @@
 }
 #play-menu{
   margin: 0 auto;
+  width: 235px;
+}
+.content{
+  width: 700px; 
 }
